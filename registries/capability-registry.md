@@ -1,0 +1,12 @@
+# Capability Registry
+- planning
+- research
+- storytelling
+- copywriting
+- storyboard-direction
+- image-prompting
+- video-prompting
+- character-consistency
+- brand-compliance
+- publishing-qc
+- performance-analysis

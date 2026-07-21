@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.env
+.vscode/
+.idea/
+outputs/*
+!outputs/README.md
+projects/*/private/
