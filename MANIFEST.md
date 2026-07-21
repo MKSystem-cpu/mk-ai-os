@@ -1,145 +1,167 @@
-# Manifest
+# Manifest — MK AI OS v2.0.0
 
-- `CHANGELOG.md`
-- `LICENSE`
-- `README.md`
-- `ROADMAP.md`
-- `assets/README.md`
-- `brands/mk-collection/CHANGELOG.md`
-- `brands/mk-collection/README.md`
-- `brands/mk-collection/audience.md`
-- `brands/mk-collection/brand-dna.md`
-- `brands/mk-collection/content-strategy.md`
-- `brands/mk-collection/prompt-rules.md`
-- `brands/mk-collection/quality-control.md`
-- `brands/mk-collection/source/MK-COLLECTION-PRODUCTION-WORKFLOW-v3.0.md`
-- `brands/mk-collection/story-framework.md`
-- `brands/mk-collection/visual-style.md`
-- `brands/mk-collection/writing-style.md`
-- `capabilities/README.md`
-- `capabilities/brand-compliance.md`
-- `capabilities/character-consistency.md`
-- `capabilities/copywriting.md`
-- `capabilities/image-prompting.md`
-- `capabilities/performance-analysis.md`
-- `capabilities/planning.md`
-- `capabilities/publishing-qc.md`
-- `capabilities/research.md`
-- `capabilities/storyboard-direction.md`
-- `capabilities/storytelling.md`
-- `capabilities/video-prompting.md`
-- `contracts/brand-contract.md`
-- `contracts/handoff-contract.md`
-- `contracts/skill-contract.md`
-- `contracts/workflow-contract.md`
-- `governance/constitution.md`
-- `governance/policy/execution.md`
-- `governance/policy/memory.md`
-- `governance/standards/naming.md`
-- `governance/standards/output.md`
-- `governance/standards/versioning.md`
-- `knowledge/README.md`
-- `manager/README.md`
-- `manager/ai-manager.md`
-- `manager/brand-manager.md`
-- `manager/context-manager.md`
-- `manager/delivery-manager.md`
-- `manager/intent-manager.md`
-- `manager/quality-manager.md`
-- `manager/resource-manager.md`
-- `manager/workflow-engine.md`
-- `outputs/README.md`
-- `projects/README.md`
-- `registries/brand-registry.md`
-- `registries/capability-registry.md`
-- `registries/skill-registry.md`
-- `registries/workflow-registry.md`
-- `skills/core/analytics/CHANGELOG.md`
-- `skills/core/analytics/README.md`
-- `skills/core/analytics/handoff.md`
-- `skills/core/analytics/identity.md`
-- `skills/core/analytics/limitations.md`
-- `skills/core/analytics/quality-control.md`
-- `skills/core/analytics/scope.md`
-- `skills/core/analytics/workflow.md`
-- `skills/core/copy/CHANGELOG.md`
-- `skills/core/copy/README.md`
-- `skills/core/copy/handoff.md`
-- `skills/core/copy/identity.md`
-- `skills/core/copy/limitations.md`
-- `skills/core/copy/quality-control.md`
-- `skills/core/copy/scope.md`
-- `skills/core/copy/workflow.md`
-- `skills/core/planner/CHANGELOG.md`
-- `skills/core/planner/README.md`
-- `skills/core/planner/handoff.md`
-- `skills/core/planner/identity.md`
-- `skills/core/planner/limitations.md`
-- `skills/core/planner/quality-control.md`
-- `skills/core/planner/scope.md`
-- `skills/core/planner/workflow.md`
-- `skills/core/publish/CHANGELOG.md`
-- `skills/core/publish/README.md`
-- `skills/core/publish/handoff.md`
-- `skills/core/publish/identity.md`
-- `skills/core/publish/limitations.md`
-- `skills/core/publish/quality-control.md`
-- `skills/core/publish/scope.md`
-- `skills/core/publish/workflow.md`
-- `skills/core/research/CHANGELOG.md`
-- `skills/core/research/README.md`
-- `skills/core/research/handoff.md`
-- `skills/core/research/identity.md`
-- `skills/core/research/limitations.md`
-- `skills/core/research/quality-control.md`
-- `skills/core/research/scope.md`
-- `skills/core/research/workflow.md`
-- `skills/core/review/CHANGELOG.md`
-- `skills/core/review/README.md`
-- `skills/core/review/handoff.md`
-- `skills/core/review/identity.md`
-- `skills/core/review/limitations.md`
-- `skills/core/review/quality-control.md`
-- `skills/core/review/scope.md`
-- `skills/core/review/workflow.md`
-- `skills/core/video/CHANGELOG.md`
-- `skills/core/video/README.md`
-- `skills/core/video/handoff.md`
-- `skills/core/video/identity.md`
-- `skills/core/video/limitations.md`
-- `skills/core/video/quality-control.md`
-- `skills/core/video/scope.md`
-- `skills/core/video/workflow.md`
-- `skills/specialist/README.md`
-- `skills/utility/README.md`
-- `templates/brand-module-template.md`
-- `templates/skill-template.md`
-- `templates/workflow-template.md`
-- `workflows/campaign/README.md`
-- `workflows/campaign/quality-control.md`
-- `workflows/campaign/routing.md`
-- `workflows/campaign/workflow.md`
-- `workflows/carousel-production/README.md`
-- `workflows/carousel-production/quality-control.md`
-- `workflows/carousel-production/routing.md`
-- `workflows/carousel-production/workflow.md`
-- `workflows/poster-production/README.md`
-- `workflows/poster-production/quality-control.md`
-- `workflows/poster-production/routing.md`
-- `workflows/poster-production/workflow.md`
-- `workflows/product-launch/README.md`
-- `workflows/product-launch/quality-control.md`
-- `workflows/product-launch/routing.md`
-- `workflows/product-launch/workflow.md`
-- `workflows/review-production/README.md`
-- `workflows/review-production/quality-control.md`
-- `workflows/review-production/routing.md`
-- `workflows/review-production/workflow.md`
-- `workflows/social-content/README.md`
-- `workflows/social-content/quality-control.md`
-- `workflows/social-content/routing.md`
-- `workflows/social-content/workflow.md`
-- `workflows/video-production/README.md`
-- `workflows/video-production/quality-control.md`
-- `workflows/video-production/routing.md`
-- `workflows/video-production/workflow.md`
+| File | Bytes | SHA-256 (16) |
+|---|---:|---|
+| `.gitignore` | 102 | `fd3898c784c5d1d9` |
+| `CHANGELOG.md` | 801 | `f09ce531d0c3a0f9` |
+| `GITHUB-UPLOAD-GUIDE.md` | 1434 | `b938555ee235baea` |
+| `LICENSE` | 69 | `d7b67a5b168d3705` |
+| `MANIFEST.md` | 5198 | `7935f5382631b144` |
+| `OPERATIONS-MANUAL.md` | 2279 | `44717bf9cb1a5d6f` |
+| `QUICKSTART.md` | 1677 | `9cc1e2e89a42f037` |
+| `README.md` | 2218 | `06f5dbfb5fa0c13e` |
+| `ROADMAP.md` | 391 | `6f05dd8afa41ca66` |
+| `UPDATE-v1.2.md` | 426 | `4df2068d5869c3e7` |
+| `UPDATE-v2.0.md` | 574 | `376609b9ea341200` |
+| `VERSION` | 6 | `c28fcca53637bc88` |
+| `assets/README.md` | 82 | `be98326c5fa53cc8` |
+| `brands/mk-collection/CHANGELOG.md` | 86 | `64c6511b20d1d66e` |
+| `brands/mk-collection/README.md` | 72 | `1cbc6f61b8c89e9c` |
+| `brands/mk-collection/SKILL.md` | 2313 | `9b5a41a2d88b0efb` |
+| `brands/mk-collection/audience.md` | 129 | `a27f68fd774617fd` |
+| `brands/mk-collection/brand-dna.md` | 300 | `761ca9e4ccba9f8b` |
+| `brands/mk-collection/content-strategy.md` | 177 | `568c8bb3df59cf0a` |
+| `brands/mk-collection/prompt-rules.md` | 466 | `06317e0f4ccce45c` |
+| `brands/mk-collection/quality-control.md` | 228 | `dc82174dc505be17` |
+| `brands/mk-collection/source/MK-COLLECTION-PRODUCTION-WORKFLOW-v3.0.md` | 3893 | `47567766bbef4203` |
+| `brands/mk-collection/story-framework.md` | 220 | `e06d8b85fdb7fed4` |
+| `brands/mk-collection/visual-style.md` | 358 | `bed69f6ab707c9ba` |
+| `brands/mk-collection/writing-style.md` | 314 | `a67e6c3ee020d6a2` |
+| `capabilities/README.md` | 168 | `36ec87e3add460b2` |
+| `capabilities/brand-compliance.md` | 82 | `14775d8067b5e179` |
+| `capabilities/character-consistency.md` | 87 | `f568390858c294a8` |
+| `capabilities/copywriting.md` | 77 | `59aa810a9a47701a` |
+| `capabilities/image-prompting.md` | 81 | `c277031e31ca2fd4` |
+| `capabilities/performance-analysis.md` | 86 | `73a7f71f20867b3e` |
+| `capabilities/planning.md` | 74 | `27f5d10a3c95c225` |
+| `capabilities/publishing-qc.md` | 79 | `d7f9a5038741a90b` |
+| `capabilities/research.md` | 74 | `8edfdd2488bb611d` |
+| `capabilities/storyboard-direction.md` | 86 | `e9d3d4d924ddea3f` |
+| `capabilities/storytelling.md` | 78 | `65bfcd3c1bfbe95f` |
+| `capabilities/video-prompting.md` | 81 | `7a542d2d8a0983e6` |
+| `contracts/brand-contract.md` | 167 | `f7cac09c489a79e8` |
+| `contracts/handoff-contract.md` | 495 | `6612611fb5dc6c23` |
+| `contracts/skill-contract.md` | 354 | `929cb6d871109618` |
+| `contracts/workflow-contract.md` | 160 | `419e9bf177bedba6` |
+| `governance/constitution.md` | 552 | `1d6e09c383067db5` |
+| `governance/policy/execution.md` | 338 | `f29890185a3e4a7b` |
+| `governance/policy/memory.md` | 176 | `53c703ef7d1773da` |
+| `governance/standards/naming.md` | 90 | `31ef998b7fe2802b` |
+| `governance/standards/output.md` | 265 | `e4daace750160661` |
+| `governance/standards/versioning.md` | 57 | `d7a4baf1f889313d` |
+| `knowledge/README.md` | 85 | `9a9e402a387e56b8` |
+| `manager/README.md` | 73 | `cda3025e771d59e6` |
+| `manager/SKILL.md` | 2803 | `26fe1d736449fd0f` |
+| `manager/ai-manager.md` | 395 | `056c29b210e05b26` |
+| `manager/brand-manager.md` | 108 | `81adc33c375350a0` |
+| `manager/context-manager.md` | 501 | `417e5e93f3efd155` |
+| `manager/delivery-manager.md` | 116 | `60f1f8af5fa82a3f` |
+| `manager/intent-manager.md` | 705 | `19165b02d61fb6a7` |
+| `manager/quality-manager.md` | 140 | `c0d409a887467959` |
+| `manager/resource-manager.md` | 140 | `628706fcfb40352a` |
+| `manager/workflow-engine.md` | 1232 | `7b80ba60ba9b9f71` |
+| `outputs/README.md` | 83 | `5ffd0e422c89b14c` |
+| `projects/README.md` | 84 | `ad419ca942740192` |
+| `registries/brand-registry.md` | 80 | `4c5791b6e9cc09ed` |
+| `registries/capability-registry.md` | 214 | `89ad69866bc0cbbc` |
+| `registries/skill-registry.md` | 622 | `d102067ec905ef0d` |
+| `registries/workflow-registry.md` | 422 | `30b3bc85bb08e994` |
+| `skills/core/analytics/CHANGELOG.md` | 90 | `8705fcbe307bdf92` |
+| `skills/core/analytics/README.md` | 62 | `5bea1e0b67a2f4fd` |
+| `skills/core/analytics/SKILL.md` | 1940 | `9c8cf1eda7043738` |
+| `skills/core/analytics/handoff.md` | 162 | `740a1213d86f89e4` |
+| `skills/core/analytics/identity.md` | 124 | `4ea0ae3b04f84bf0` |
+| `skills/core/analytics/limitations.md` | 186 | `ea93327290374032` |
+| `skills/core/analytics/quality-control.md` | 175 | `b4e22f579f5d7972` |
+| `skills/core/analytics/scope.md` | 163 | `a76a3fde7975c2fe` |
+| `skills/core/analytics/workflow.md` | 74 | `d823d6c97686bc98` |
+| `skills/core/copy/CHANGELOG.md` | 90 | `8705fcbe307bdf92` |
+| `skills/core/copy/README.md` | 57 | `b0a49a2ce6614b0f` |
+| `skills/core/copy/SKILL.md` | 1898 | `71de3ed3e0fcc513` |
+| `skills/core/copy/handoff.md` | 162 | `740a1213d86f89e4` |
+| `skills/core/copy/identity.md` | 111 | `528b0b14ff38ca30` |
+| `skills/core/copy/limitations.md` | 186 | `ea93327290374032` |
+| `skills/core/copy/quality-control.md` | 175 | `b4e22f579f5d7972` |
+| `skills/core/copy/scope.md` | 165 | `7a6609186f7d84bf` |
+| `skills/core/copy/workflow.md` | 74 | `d823d6c97686bc98` |
+| `skills/core/planner/CHANGELOG.md` | 90 | `8705fcbe307bdf92` |
+| `skills/core/planner/README.md` | 60 | `1faca31a9de74a5f` |
+| `skills/core/planner/SKILL.md` | 1972 | `60f1541362c4baa4` |
+| `skills/core/planner/handoff.md` | 162 | `740a1213d86f89e4` |
+| `skills/core/planner/identity.md` | 110 | `9c4c5864ba8a2cde` |
+| `skills/core/planner/limitations.md` | 186 | `ea93327290374032` |
+| `skills/core/planner/quality-control.md` | 175 | `b4e22f579f5d7972` |
+| `skills/core/planner/scope.md` | 132 | `c2407817ab11a71b` |
+| `skills/core/planner/workflow.md` | 74 | `d823d6c97686bc98` |
+| `skills/core/publish/CHANGELOG.md` | 90 | `8705fcbe307bdf92` |
+| `skills/core/publish/README.md` | 60 | `c91dd41572f9865e` |
+| `skills/core/publish/SKILL.md` | 1923 | `1905d0ab86df950b` |
+| `skills/core/publish/handoff.md` | 162 | `740a1213d86f89e4` |
+| `skills/core/publish/identity.md` | 141 | `0cb0a4d5194a669b` |
+| `skills/core/publish/limitations.md` | 186 | `ea93327290374032` |
+| `skills/core/publish/quality-control.md` | 175 | `b4e22f579f5d7972` |
+| `skills/core/publish/scope.md` | 173 | `09d3865a2350df3e` |
+| `skills/core/publish/workflow.md` | 74 | `d823d6c97686bc98` |
+| `skills/core/research/CHANGELOG.md` | 90 | `8705fcbe307bdf92` |
+| `skills/core/research/README.md` | 61 | `00950004123f1cf5` |
+| `skills/core/research/SKILL.md` | 1892 | `43f9a36d53bb30ff` |
+| `skills/core/research/handoff.md` | 162 | `740a1213d86f89e4` |
+| `skills/core/research/identity.md` | 129 | `b38da6ac7296b85d` |
+| `skills/core/research/limitations.md` | 186 | `ea93327290374032` |
+| `skills/core/research/quality-control.md` | 175 | `b4e22f579f5d7972` |
+| `skills/core/research/scope.md` | 153 | `e922497c9fd7c49b` |
+| `skills/core/research/workflow.md` | 74 | `d823d6c97686bc98` |
+| `skills/core/review/CHANGELOG.md` | 90 | `8705fcbe307bdf92` |
+| `skills/core/review/README.md` | 59 | `946576bbc66c4f27` |
+| `skills/core/review/SKILL.md` | 2523 | `d5134e384533c6b9` |
+| `skills/core/review/handoff.md` | 162 | `740a1213d86f89e4` |
+| `skills/core/review/identity.md` | 142 | `4234e1753420599a` |
+| `skills/core/review/limitations.md` | 186 | `ea93327290374032` |
+| `skills/core/review/quality-control.md` | 175 | `b4e22f579f5d7972` |
+| `skills/core/review/scope.md` | 167 | `cb49a407602c69a4` |
+| `skills/core/review/workflow.md` | 74 | `d823d6c97686bc98` |
+| `skills/core/video/CHANGELOG.md` | 90 | `8705fcbe307bdf92` |
+| `skills/core/video/README.md` | 58 | `fde895ea11b694c0` |
+| `skills/core/video/SKILL.md` | 2842 | `f9b50654a74a8ca7` |
+| `skills/core/video/handoff.md` | 162 | `740a1213d86f89e4` |
+| `skills/core/video/identity.md` | 119 | `974f896043363fe8` |
+| `skills/core/video/limitations.md` | 186 | `ea93327290374032` |
+| `skills/core/video/quality-control.md` | 175 | `b4e22f579f5d7972` |
+| `skills/core/video/scope.md` | 172 | `e42069d991b53592` |
+| `skills/core/video/workflow.md` | 74 | `d823d6c97686bc98` |
+| `skills/specialist/README.md` | 86 | `f85b8547504fcbda` |
+| `skills/utility/README.md` | 83 | `91031c417994a9bf` |
+| `templates/EXECUTION-BRIEF.md` | 242 | `e0cc23a2cfb81e52` |
+| `templates/PROJECT-STATE.md` | 598 | `20ac3c75d1581733` |
+| `templates/brand-module-template.md` | 100 | `ccdea5d00ffad061` |
+| `templates/skill-template.md` | 140 | `816958a20c6ae575` |
+| `templates/workflow-template.md` | 114 | `da7afd11fbc28a43` |
+| `tools/validate_repository.py` | 2057 | `7bbe98ae1fe036bb` |
+| `workflows/campaign/README.md` | 26 | `ca226251ee9cb63b` |
+| `workflows/campaign/quality-control.md` | 105 | `33b8393637a766dd` |
+| `workflows/campaign/routing.md` | 123 | `7a65d09bf656fb3f` |
+| `workflows/campaign/workflow.md` | 545 | `72b203fd7235b2a3` |
+| `workflows/carousel-production/README.md` | 37 | `3e67fc25319ae549` |
+| `workflows/carousel-production/quality-control.md` | 105 | `33b8393637a766dd` |
+| `workflows/carousel-production/routing.md` | 123 | `7a65d09bf656fb3f` |
+| `workflows/carousel-production/workflow.md` | 503 | `f3912dec327b7fdf` |
+| `workflows/poster-production/README.md` | 35 | `42f5f7ef34ec3a01` |
+| `workflows/poster-production/quality-control.md` | 105 | `33b8393637a766dd` |
+| `workflows/poster-production/routing.md` | 123 | `7a65d09bf656fb3f` |
+| `workflows/poster-production/workflow.md` | 531 | `fb33a22579c15932` |
+| `workflows/product-launch/README.md` | 32 | `f07d391f2278e7fe` |
+| `workflows/product-launch/quality-control.md` | 105 | `33b8393637a766dd` |
+| `workflows/product-launch/routing.md` | 123 | `7a65d09bf656fb3f` |
+| `workflows/product-launch/workflow.md` | 567 | `e65b9cbcb804e401` |
+| `workflows/review-production/README.md` | 35 | `25d58ad4fc6d2ceb` |
+| `workflows/review-production/quality-control.md` | 105 | `33b8393637a766dd` |
+| `workflows/review-production/routing.md` | 123 | `7a65d09bf656fb3f` |
+| `workflows/review-production/workflow.md` | 1491 | `be5d04638d81c5cb` |
+| `workflows/social-content/README.md` | 32 | `be8cc941815ed71e` |
+| `workflows/social-content/quality-control.md` | 105 | `33b8393637a766dd` |
+| `workflows/social-content/routing.md` | 123 | `7a65d09bf656fb3f` |
+| `workflows/social-content/workflow.md` | 485 | `f132de08ef465822` |
+| `workflows/video-production/README.md` | 34 | `a9a8f135bc07589b` |
+| `workflows/video-production/quality-control.md` | 105 | `33b8393637a766dd` |
+| `workflows/video-production/routing.md` | 123 | `7a65d09bf656fb3f` |
+| `workflows/video-production/workflow.md` | 2081 | `3a4effc70eea54db` |

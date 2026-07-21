@@ -1,9 +1,12 @@
-# Skill Registry
+# Skill Registry v2.0
 
-- `planner` — v1.0.0 — active
-- `research` — v1.0.0 — active
-- `video` — v1.0.0 — active
-- `review` — v1.0.0 — active
-- `copy` — v1.0.0 — active
-- `publish` — v1.0.0 — active
-- `analytics` — v1.0.0 — active
+| ID | Alias | Version | Status | Primary responsibility |
+|---|---|---:|---|---|
+| manager | Manager | 2.0.0 | active | Routing and orchestration |
+| planner | Planner | 2.0.0 | active | Plans and calendars |
+| research | Research | 2.0.0 | active | Evidence and insight |
+| video | Video | 2.0.0 | active | Storyboard-led video |
+| review | Review | 2.0.0 | active | Review overlay content |
+| copy | Copy | 2.0.0 | active | Hooks, scripts, captions |
+| publish | Publish | 2.0.0 | active | Platform release readiness |
+| analytics | Analytics | 2.0.0 | active | Performance diagnosis and tests |

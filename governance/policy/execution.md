@@ -1,2 +1,9 @@
 # Execution Policy
-If the brief is sufficient, execute immediately. Ask only one essential clarification when work cannot safely proceed. Never repeat a previously answered question.
+
+- Begin immediately when the brief is sufficient.
+- Ask only blocker questions.
+- Use the minimum sufficient route.
+- Continue from approved work instead of restarting.
+- One stage must have one clear owner.
+- Deliver the artifact before lengthy explanation.
+- State assumptions and pending external actions honestly.

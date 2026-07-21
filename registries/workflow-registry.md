@@ -1,9 +1,11 @@
-# Workflow Registry
+# Workflow Registry v2.0
 
-- `video-production` — v1.0.0 — active
-- `review-production` — v1.0.0 — active
-- `poster-production` — v1.0.0 — active
-- `carousel-production` — v1.0.0 — active
-- `campaign` — v1.0.0 — active
-- `product-launch` — v1.0.0 — active
-- `social-content` — v1.0.0 — active
+| ID | Version | Primary skill | Status |
+|---|---:|---|---|
+| video-production | 2.0.0 | Video | active |
+| review-production | 2.0.0 | Review | active |
+| campaign | 2.0.0 | Planner | active |
+| product-launch | 2.0.0 | Planner | active |
+| poster-production | 2.0.0 | Review/Copy | active |
+| carousel-production | 2.0.0 | Planner/Copy | active |
+| social-content | 2.0.0 | Manager | active |

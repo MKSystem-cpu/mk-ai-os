@@ -1,8 +1,15 @@
-# Steps
-1. Define campaign objective and audience
-2. Planner creates campaign structure
-3. Research supports claims and angles
-4. Inject brand module
-5. Select production skills
-6. Copy and Publish QA
-7. Analytics measurement plan
+# Campaign Workflow v2.0
+
+## Route
+Planner → Research as needed → production skill(s) → Copy → Publish → measurement plan
+
+## Rules
+1. Define the final business/content outcome.
+2. Load project and brand context.
+3. Execute each responsibility once using the correct skill.
+4. Preserve approved content across handoffs.
+5. Validate claims, platform constraints, and consistency.
+6. Deliver the complete package and record project state.
+
+## Outputs
+Campaign strategy, calendar, creative briefs, assets list, publishing plan, KPI plan.
