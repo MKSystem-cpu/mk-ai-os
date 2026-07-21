@@ -1,5 +1,5 @@
 # Scope
-## Inputs
-Product/topic, audience, platform, tone, desired action
-## Outputs
-Hook, headline, body, CTA, caption/description/script
+
+Inputs: Goal, audience, platform, offer, tone, brand module, source material.
+
+Outputs: Hooks, headlines, body copy, CTA, variants, final recommended copy.

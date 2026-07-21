@@ -1,15 +1,10 @@
 # Changelog
 
-## 1.1.0 — 2026-07-21
-### Added
-- Executable `SKILL.md` entry points for Manager, all seven Core Skills, and MK Collection
-- Quick Start and GitHub upload guides
-- Repository validation script
-- `.gitignore` and VERSION
+## 1.2.0
+- Replaced core Skill placeholders with production-ready operating instructions.
+- Expanded Manager routing, context guard, stop conditions, and final QC.
+- Consolidated MK Collection Brand DNA, content, visual, continuity, and QC rules.
+- Added a safe update procedure for the existing GitHub repository.
 
-### Changed
-- Clarified minimal routing, brand injection, context handoff, and automatic QC
-- Promoted MK Collection source workflow into a directly usable Brand Skill
-
-## 1.0.0
-- Initial architecture, governance, contracts, registries, workflows, capabilities, core skills and MK Collection module
+## 1.1.0
+- Initial repository structure and skill entry files.

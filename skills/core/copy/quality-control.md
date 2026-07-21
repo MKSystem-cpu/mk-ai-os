@@ -1,7 +1,3 @@
 # Quality Control
-- Directly answers the request
-- Uses known information consistently
-- No duplicated stages
-- No unsupported facts
-- Output is clear and ready to use
-- Brand rules applied when active
+
+Check relevance, completeness, consistency, usability, factual integrity, brand alignment, and format compliance. Rewrite automatically when a check fails.

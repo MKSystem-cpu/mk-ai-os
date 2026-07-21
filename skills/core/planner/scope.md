@@ -1,5 +1,5 @@
 # Scope
-## Inputs
-Goal, timeline, platform, resources
-## Outputs
-Prioritized plan, milestones, owners, next production action
+
+Inputs: Goal, platform, timeline, resources, constraints.
+
+Outputs: Plan, calendar, priorities, milestones, handoff brief.

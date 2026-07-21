@@ -1,3 +1,4 @@
 # Changelog
-## 1.0.0
-- Initial standardized skill module.
+
+## 1.2.0
+- Replaced placeholder text with production operating instructions.

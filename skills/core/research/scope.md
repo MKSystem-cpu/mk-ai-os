@@ -1,5 +1,5 @@
 # Scope
-## Inputs
-Product/subject, goal, audience, market scope
-## Outputs
-Findings, evidence, insight, opportunity, recommendation
+
+Inputs: Product/subject, goal, audience, market, known references.
+
+Outputs: Research summary, insights, opportunities, risks, recommendations.

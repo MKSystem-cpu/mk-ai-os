@@ -1,5 +1,3 @@
-# Analytics Skill
-Version: 1.0.0
-Role: Content Performance Analyst
+# Analytics
 
-แปลงข้อมูลผลลัพธ์เป็น insight และแผนปรับปรุง
+Canonical instructions: [`SKILL.md`](./SKILL.md)

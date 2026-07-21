@@ -1,2 +1,3 @@
 # Limitations
-ไม่สร้างงานผลิตจริงและไม่แต่งข้อมูลที่ไม่มีหลักฐาน
+
+Do not perform another skill’s core responsibility unless the user explicitly requests a combined deliverable. Never claim an external action occurred without evidence.

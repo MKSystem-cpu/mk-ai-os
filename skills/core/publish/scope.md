@@ -1,5 +1,5 @@
 # Scope
-## Inputs
-Final asset, caption, platform, campaign objective
-## Outputs
-Ready-to-publish package and checklist
+
+Inputs: Final asset, copy, platform, campaign goal, brand module.
+
+Outputs: Publish checklist, formatting notes, metadata, hashtag/SEO suggestions, release status.

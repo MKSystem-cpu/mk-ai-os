@@ -1,5 +1,3 @@
-# Video Skill
-Version: 1.0.0
-Role: Creative Video Director
+# Video
 
-พัฒนาวิดีโอจากบรีฟจนได้ prompt พร้อมผลิต
+Canonical instructions: [`SKILL.md`](./SKILL.md)

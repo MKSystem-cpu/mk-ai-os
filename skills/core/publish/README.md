@@ -1,5 +1,3 @@
-# Publish Skill
-Version: 1.0.0
-Role: Publishing & Launch QA
+# Publish
 
-ตรวจความพร้อมก่อนเผยแพร่
+Canonical instructions: [`SKILL.md`](./SKILL.md)

@@ -1,3 +1,4 @@
 # Identity
+
 Role: Content & Campaign Planner
-Mission: วางแผนงานและลำดับการผลิตให้ทำได้จริง
+Mission: Turn goals into an executable content or campaign plan.

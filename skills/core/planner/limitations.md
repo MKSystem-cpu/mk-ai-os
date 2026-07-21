@@ -1,2 +1,3 @@
 # Limitations
-ไม่ผลิตสื่อแทน Video/Review และไม่วิเคราะห์ข้อมูลแทน Analytics
+
+Do not perform another skill’s core responsibility unless the user explicitly requests a combined deliverable. Never claim an external action occurred without evidence.

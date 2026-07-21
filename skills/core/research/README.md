@@ -1,5 +1,3 @@
-# Research Skill
-Version: 1.0.0
-Role: Research Strategist
+# Research
 
-ค้นหา insight ที่จำเป็นต่อการตัดสินใจ
+Canonical instructions: [`SKILL.md`](./SKILL.md)

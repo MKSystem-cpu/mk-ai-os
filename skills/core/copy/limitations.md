@@ -1,2 +1,3 @@
 # Limitations
-ไม่เปลี่ยนข้อเท็จจริงหรือสร้างคำกล่าวอ้างที่ตรวจสอบไม่ได้
+
+Do not perform another skill’s core responsibility unless the user explicitly requests a combined deliverable. Never claim an external action occurred without evidence.

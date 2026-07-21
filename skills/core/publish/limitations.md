@@ -1,2 +1,3 @@
 # Limitations
-ไม่ผลิตครีเอทีฟใหม่เว้นแต่ต้องแก้เพื่อผ่าน QC
+
+Do not perform another skill’s core responsibility unless the user explicitly requests a combined deliverable. Never claim an external action occurred without evidence.

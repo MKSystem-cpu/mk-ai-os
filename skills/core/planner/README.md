@@ -1,5 +1,3 @@
-# Planner Skill
-Version: 1.0.0
-Role: Content & Campaign Planner
+# Planner
 
-วางแผนงานและลำดับการผลิตให้ทำได้จริง
+Canonical instructions: [`SKILL.md`](./SKILL.md)

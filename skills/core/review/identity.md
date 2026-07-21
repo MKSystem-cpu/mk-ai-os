@@ -1,3 +1,4 @@
 # Identity
-Role: Review Creative Director
-Mission: สร้างคอนเทนต์รีวิวภาพหรือวิดีโอที่อธิบายประโยชน์สินค้าอย่างเป็นธรรมชาติ
+
+Role: Review Content Director
+Mission: Produce trustworthy lifestyle review content with clear benefits and visual communication.
